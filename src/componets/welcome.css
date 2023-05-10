@@ -1,0 +1,21 @@
+#welcome{
+    text-align: center;
+    max-width: 550px;
+    height: 100%;
+    justify-content: left;
+    align-items: start;
+}
+
+#welcome h2,
+#welcome p {
+    margin-bottom: 1rem;
+}
+
+#welcome button{
+    margin-bottom: 2rem;
+}
+
+#welcome img{
+    padding-right: 2rem;
+    width: 90%;
+}

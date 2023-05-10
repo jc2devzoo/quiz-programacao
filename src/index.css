@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+}
+
+body,html{
+  min-height: 100vh;
+  height: 100%;
+  background-color: #194756;
+}
+
+img{
+  max-width: 100%;
+}
+
+button {
+  font-weight: bold;
+  font-size: 1.2rem;
+  cursor: pointer;
+  background:#078f78;
+  border-radius: 3rem;
+  border: none;
+  width: 5rem;
+  transition: ease-in-out 0.5s;
+}
+
+button:hover{
+  background: #097c7a;
+  transform: scale(110%);
+}
